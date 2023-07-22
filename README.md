@@ -1,3 +1,3 @@
 # PyImageNode
-![Screenshot_2](https://github.com/AhmedAhmedEG/PyImageNode/assets/16827679/def8912c-9f65-4403-b8dd-411a51e12024)
+![Screenshot_3](https://github.com/AhmedAhmedEG/PyImageNode/assets/16827679/1013535a-1ec9-4055-9758-4cfe0c7e39c3)
 Node-based image processing GUI interface written in python, preloaded with many categories of filters.
